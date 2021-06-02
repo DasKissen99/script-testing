@@ -1,1 +1,1 @@
-eval(alert(document.domain);)
+eval(alert(document.domain););
